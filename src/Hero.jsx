@@ -3,7 +3,7 @@ const Hero = () => {
     return (
         <div className="hero min-h-screen bg-base-50">
             <div className="hero-content flex-col lg:flex-row-reverse">
-                <img src="hero-image-simple-homepage.png" className="max-w-lg self-start " />
+                <img src="hero-image-simple-homepage.png" className="max-w-lg w-full self-start " />
                 <div>
                     <h4 className="font-semibold uppercase mb-6">😎  Simple way to communicate</h4>
                     <h1 className="text-5xl font-bold leading-relaxed w-min">Actions for Accessibility in Design</h1>
